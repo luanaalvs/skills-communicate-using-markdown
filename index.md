@@ -8,3 +8,7 @@ let message = "JavaScript is one of my favorite programming languages"
 
 console.log(message)
 ```
+## Next steps
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
